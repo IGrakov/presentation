@@ -1,7 +1,8 @@
 # Presentation of Microservices
 ## created by Ivan Grakov
 [Link to Reveal presentation deploy](https://5fec79c6d3088e0007840c9a--igrakov-presentation.netlify.app/)
-[Link to YouTube video TBD](https://youtu.be/o3PiXGqMX9M)
+
+[Link to YouTube video](https://youtu.be/o3PiXGqMX9M)
 
 ## Introduction
 Hello, my dear friends. My name is Ivan Grakov and today I would like to talk about microservices. However, to understand advantages of microservices we first should talk about some preliminary things.
